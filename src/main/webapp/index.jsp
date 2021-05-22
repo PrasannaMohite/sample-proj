@@ -4,6 +4,8 @@
     <p><a href="webapi/myresource">Jersey resource</a>
     <p>Visit <a href="http://jersey.java.net">Project Jersey website</a>
     for more information on Jersey!
+    <p>I added breadcrumb!</p>
+    <p>I added Carousal!</p>
     <p>I added loader!</p>
 </body>
 </html>
