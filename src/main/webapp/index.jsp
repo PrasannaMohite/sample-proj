@@ -6,6 +6,7 @@
     <p>Visit <a href="http://jersey.java.net">Project Jersey website</a>
     for more information on Jersey!
     <p>I added breadcrumb!</p>
+    <p>I added Header and Footer!</p>
     <p>I added Carousal!</p>
     <p>I added loader!</p>
 </body>
